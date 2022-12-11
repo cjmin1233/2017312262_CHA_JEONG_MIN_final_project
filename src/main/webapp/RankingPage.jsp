@@ -75,7 +75,7 @@
 				<div class="ranking-box row justify-content-center align-items-center">
 					<div class="ranking-header row justify-content-between align-items-center">
 						<div></div>
-						<div>userID</div>
+						<div>userName</div>
 						<div>score</div>
 					</div>
 					<%
