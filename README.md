@@ -25,7 +25,7 @@ Before start installation, **the MySQL Connection user name and password should 
 
 ![](./attachments/5.jpg)
 
-4. src > webapp > MainPage.jsp right click > Run As > Run on Server.
+4. src > webapp > `MainPage.jsp` right click > Run As > Run on Server.
 
 
 ![](./attachments/6.jpg)
